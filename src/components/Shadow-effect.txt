@@ -1,0 +1,6 @@
+box-shadow: 0 100px 80px #100f4a1b,
+                0 42px 33px #100f4a15,
+                0 23px 17px #100f4a13,
+                0 13px 10px #100f4a11,
+                0 6px 5px #100f4a09,
+                0 3px 3px #100f4a06;
